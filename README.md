@@ -2,7 +2,7 @@
 This is the code repository for the paper:
 > **SegTTA: Training-Free Test-Time Augmentation for Zero-Shot Medical Imaging Segmentation**
 >
-> Yihong Yao\*, Chunlei Li\*, Canxuan Gang\*, Wenzhi Hu\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, Hao Zhang, and Xiaoyan Li<sup>#</sup>
+> Yihong Yao\*, Chunlei Li\*, Canxuan Gang\*, Wenzhi Hu\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)<sup>†</sup>, Hao Zhang, and Xiaoyan Li<sup>#</sup>
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
 
