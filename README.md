@@ -5,6 +5,8 @@ This is the code repository for the paper:
 > Yihong Yao\*, Chunlei Li\*, Canxuan Gang\*, Wenzhi Hu\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)<sup>†</sup>, Hao Zhang, and Xiaoyan Li<sup>#</sup>
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
+>
+> ### [Paper](https://arxiv.org/abs/2604.17451)
 
 ![SegTTA Framework](resources/main_graph.png)
 
