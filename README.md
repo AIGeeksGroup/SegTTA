@@ -6,7 +6,7 @@ This is the code repository for the paper:
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
 >
-> ### [Paper](https://arxiv.org/abs/2604.17451)
+> ### [Paper](https://arxiv.org/abs/2604.17451) | [Dataset](https://huggingface.co/datasets/AIGeeksGroup/SegTTA-data)
 
 ![SegTTA Framework](resources/main_graph.png)
 
