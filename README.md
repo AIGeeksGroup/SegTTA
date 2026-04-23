@@ -14,10 +14,11 @@ This is the code repository for the paper:
 
 If you use any content of this repo for your work, please cite the following paper:
 ```
-@misc{yao2025segtta,
+@article{yao2026segtta,
   title={SegTTA: Training-Free Test-Time Augmentation for Zero-Shot Medical Imaging Segmentation},
   author={Yao, Yihong and Li, Chunlei and Gang, Canxuan and Hu, Wenzhi and Zhang, Zeyu and Zhang, Hao and Li, Xiaoyan},
-  year={2025}
+  journal={arXiv preprint arXiv:2604.17451},
+  year={2026}
 }
 ```
 
